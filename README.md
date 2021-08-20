@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamranmoh
+- 👋 Hi, I’m Kamran Mohaghegh. Educated in mechanical engineering with background in measurement data for quality control.
 - 👀 I’m interested in data analytics, data science and data engineering in cloud
 - 🌱 I’m currently learning Azure cloud and machine learning.
 - 💞️ I’m looking to collaborate on data projects.
